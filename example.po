@@ -15,3 +15,11 @@ msgstr ""
 msgctxt "123"
 msgid "Some text for translation"
 msgstr ""
+
+msgctxt "1234"
+msgid "Some text for translation 2"
+msgstr ""
+
+msgctxt "12345"
+msgid "Some text for translation 3"
+msgstr ""
