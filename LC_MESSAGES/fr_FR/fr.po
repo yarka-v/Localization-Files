@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Andriy_Crowdin <andriy+26@crowdin.com>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-06-11 17:22-0400\n"
+"PO-Revision-Date: 2018-06-11 17:25-0400\n"
 
 msgid "Some text for translation"
 msgstr "Le texte de la traduction"
@@ -31,9 +31,13 @@ msgstr "Le texte de la traduction"
 
 msgctxt "1234"
 msgid "Some text for translation 2"
-msgstr ""
+msgstr "Le texte de la traduction 2"
 
 msgctxt "12345"
 msgid "Some text for translation 3"
-msgstr ""
+msgstr "Le texte de la traduction 3"
+
+msgctxt "123456"
+msgid "Some text for translation 4"
+msgstr "Le texte de la traduction 4"
 
