@@ -1,0 +1,7 @@
+
+msgid "Some text for translation"
+msgstr ""
+
+#. Some string
+msgid "Another string"
+msgstr ""
