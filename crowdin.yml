@@ -4,3 +4,5 @@ files:
     languages_mapping:
       language:
         fr: zh--CN
+  - source: /*.json
+    translation: /%locale%/%original_file_name%
