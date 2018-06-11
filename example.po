@@ -11,3 +11,7 @@ msgstr ""
 
 msgid "Another string #3"
 msgstr ""
+
+msgctxt "123"
+msgid "Some text for translation"
+msgstr ""
