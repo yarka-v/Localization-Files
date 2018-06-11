@@ -1,3 +1,6 @@
 files:
-  - source: '*.*'
-    translation: /%locale%/%original_file_name%
+  - source: /example.po
+    translation: /LC_MESSAGES/%locale_with_underscore%/%two_letters_code%.po
+    languages_mapping:
+      language:
+        fr: zh--CN
