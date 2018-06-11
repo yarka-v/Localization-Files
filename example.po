@@ -5,3 +5,9 @@ msgstr ""
 #. Some string
 msgid "Another string"
 msgstr ""
+
+msgid "Another string #2"
+msgstr ""
+
+msgid "Another string #3"
+msgstr ""
