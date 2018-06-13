@@ -10,34 +10,34 @@ msgstr ""
 "Last-Translator: Andriy_Crowdin <andriy+26@crowdin.com>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-06-13 08:29-0400\n"
+"PO-Revision-Date: 2018-06-13 08:30-0400\n"
 
 msgid "Some text for translation"
-msgstr ""
+msgstr "一些文字翻译"
 
 #. Some string
 msgid "Another string"
-msgstr ""
+msgstr "另一个字符串"
 
 msgid "Another string #2"
-msgstr ""
+msgstr "另一串#2"
 
 msgid "Another string #3"
-msgstr ""
+msgstr "另一串#3"
 
 msgctxt "123"
 msgid "Some text for translation"
-msgstr ""
+msgstr "一些文字翻译"
 
 msgctxt "1234"
 msgid "Some text for translation 2"
-msgstr ""
+msgstr "一些文字翻译2"
 
 msgctxt "12345"
 msgid "Some text for translation 3"
-msgstr ""
+msgstr "一些文字翻译3"
 
 msgctxt "123456"
 msgid "Some text for translation 4"
-msgstr ""
+msgstr "一些文字翻译4"
 
