@@ -31,3 +31,7 @@ msgstr ""
 msgctxt "1234567"
 msgid "Some text for translation 5"
 msgstr ""
+
+msgctxt "11234567"
+msgid "Новая строка"
+msgstr ""
