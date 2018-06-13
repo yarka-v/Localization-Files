@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: 12345678901\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /develop/example.po\n"
+"Project-Id-Version: 12345678901\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Andriy_Crowdin <andriy+26@crowdin.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2018-06-13 08:29-0400\n"
+
+msgid "Some text for translation"
+msgstr ""
+
+#. Some string
+msgid "Another string"
+msgstr ""
+
+msgid "Another string #2"
+msgstr ""
+
+msgid "Another string #3"
+msgstr ""
+
+msgctxt "123"
+msgid "Some text for translation"
+msgstr ""
+
+msgctxt "1234"
+msgid "Some text for translation 2"
+msgstr ""
+
+msgctxt "12345"
+msgid "Some text for translation 3"
+msgstr ""
+
+msgctxt "123456"
+msgid "Some text for translation 4"
+msgstr ""
+
+msgctxt "1234567"
+msgid "Some text for translation 5"
+msgstr ""
+
