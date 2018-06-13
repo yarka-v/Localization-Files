@@ -27,3 +27,7 @@ msgstr ""
 msgctxt "123456"
 msgid "Some text for translation 4"
 msgstr ""
+
+msgctxt "1234567"
+msgid "Some text for translation 5"
+msgstr ""
