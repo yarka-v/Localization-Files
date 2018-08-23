@@ -1,8 +1,8 @@
 {
     "Key1": "There {NUM_RESULTS, plural, one{is one result} other{are # results}}",
-    "Key2": "Source string 2",
-    "Key3": "Source string 2",
-    "Key4": "Source string 2",
+    "Key2": "Chaîne Source 2",
+    "Key3": "Chaîne Source 2",
+    "Key4": "Chaîne Source 2",
     "Key22": "Source string 2",
     "Key23": "Source string 2",
     "Key2123": "Source string 2",
