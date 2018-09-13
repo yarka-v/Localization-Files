@@ -1,22 +1,22 @@
 {
   "extension_description": {
-    "message": "This extension allows to paste passwords from the application.",
+    "message": "Ta razširitev omogoča, da prilepite gesla iz uporabe.",
     "description": "Some comment for translators"
   },
   "options_title": {
-    "message": "Options",
+    "message": "Možnosti",
     "description": null
   },
   "ask_password_prompt": {
-    "message": "Ask for a password:",
+    "message": "Vprašaj za geslo:",
     "description": null
   },
   "show_password_prompt": {
-    "message": "Show password",
+    "message": "Prikaži geslo",
     "description": null
   },
   "brand_new_string": {
-    "message": "New text for translation",
+    "message": "Novo besedilo za prevajanje",
     "description": null
   }
 }
