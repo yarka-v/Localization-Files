@@ -1,0 +1,22 @@
+{
+  "extension_description": {
+    "message": "Ta razširitev omogoča, da prilepite gesla iz uporabe.",
+    "description": "Some comment for translators"
+  },
+  "options_title": {
+    "message": "Možnosti",
+    "description": null
+  },
+  "ask_password_prompt": {
+    "message": "Vprašaj za geslo:",
+    "description": null
+  },
+  "show_password_prompt": {
+    "message": "Prikaži geslo",
+    "description": null
+  },
+  "brand_new_string": {
+    "message": "Novo besedilo za prevajanje",
+    "description": null
+  }
+}
