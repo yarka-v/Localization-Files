@@ -1,0 +1,22 @@
+{
+  "extension_description": {
+    "message": "crwdns1104999:0crwdne1104999:0",
+    "description": "Some comment for translators"
+  },
+  "options_title": {
+    "message": "crwdns1105000:0crwdne1105000:0",
+    "description": null
+  },
+  "ask_password_prompt": {
+    "message": "crwdns1105001:0crwdne1105001:0",
+    "description": null
+  },
+  "show_password_prompt": {
+    "message": "crwdns1105002:0crwdne1105002:0",
+    "description": null
+  },
+  "brand_new_string": {
+    "message": "crwdns1105003:0crwdne1105003:0",
+    "description": null
+  }
+}
