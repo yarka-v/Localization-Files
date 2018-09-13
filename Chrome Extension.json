@@ -1,7 +1,7 @@
 {
   "extension_description": {
     "message": "This extension allows to paste passwords from the application.",
-    "description": null
+    "description": Some comment for translators
   },
   "options_title": {
     "message": "Options",
@@ -13,6 +13,10 @@
   },
   "show_password_prompt": {
     "message": "Show password",
+    "description": null
+  },
+  "brand_new_string": {
+    "message": "New text for translation",
     "description": null
   }
 }
