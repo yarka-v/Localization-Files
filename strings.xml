@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!-- Přeložil R3gi (regiprogi(a)gmail(.)com) ; 13.07.2013 -->
 <resources>
+    <string name="config_statusBarComponent2222">New Text</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
     <string name="status_bar_date_formatter">"%1$s
