@@ -3,14 +3,14 @@
 <!-- Přeložil R3gi (regiprogi(a)gmail(.)com) ; 13.07.2013 -->
 <resources>
   <string name="config_statusBarComponent2222" comment="Some context for translators">The most powerful</string>
-  <string name="config_statusBarComponent">abc</string>
-  <string name="config_systemBarComponent">def</string>
+  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
+  <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="status_bar_date_formatter">"%1$s
 %2$s"</string>
   <string name="app_label">UI systému</string>
   <string name="status_bar_clear_all_button">Vymaz.</string>
   <string name="status_bar_do_not_disturb_button">Nerušit</string>
-  <string name="status_bar_please_disturb_button">Voir oznámení</string>
+  <string name="status_bar_please_disturb_button">Zobrazit oznámení</string>
   <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
   <string name="status_bar_recent_inspect_item_title">Informace o aplikaci</string>
   <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
