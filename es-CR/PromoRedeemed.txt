@@ -1,0 +1,16 @@
+﻿Hi *|Model.FullName|*,
+
+Thank you for redeeming your promotion for a LANDR premium account. Your account has been upgraded so that you can enjoy the full LANDR experience.
+
+Your promotion gives you access to *|Model.ValuePerMonth|* WAV masters per month for *|Model.NumberOfMonth|* month(s).
+
+Want free uncompressed WAVs?
+
+Share your referral link with a friend and you’ll both get 2 free WAVs (worth $9.99 each). 
+www.landr.com?referral=*|Model.ReferralCode|*
+
+If at any time you need help or have a question; hit us up, show us some love, give us your feedback — we’re all ears.
+
+Thanks,
+
+The LANDR Support Team
